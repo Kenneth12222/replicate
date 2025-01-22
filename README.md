@@ -17,8 +17,8 @@ This project is a simple Express.js application that integrates with the [Replic
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Kenneth12222/replicate.git
+   cd replicate
    ```
 
 2. Install dependencies:
